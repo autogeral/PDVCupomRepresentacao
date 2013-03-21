@@ -24,6 +24,7 @@ public class ItemRepresentacao {
     private Double valorDoAcrescimoDesconto;
     private TipoQuantidade tipoDeQuantidade;
     private float quantidade;
+    private Strint teste;
 
     public AcrescimoDesconto getAcrescimoDesconto() {
         return acrescimoDesconto;
